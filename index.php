@@ -19,7 +19,7 @@ It gives hope to everyone
 <br>
 <img src ="circle.jpg" width = 300, length = 300> </img>
 <br>
-Itís a small 
+It‚Äôs a small 
 <br>
 <b>World after all</b>
  <br> 
@@ -35,7 +35,7 @@ Itís a small
 <br>
 <br>
 <p align="left">
-<b><font color = "red", size = "1" , face = "lato"> ìBeginning today, I will create a new future by creating a new me.</b></font>  
+<b><font color = "red", size = "1" , face = "lato"> ‚ÄúBeginning today, I will create a new future by creating a new me.</b></font>  
 <br>
 <br>
 <b><font color = "black", size = "2" , face = "lato"> No longer will I dwell in a pit of despair,</b></font>
@@ -56,7 +56,7 @@ Itís a small
 <b><font color = "red", size = "8" , face = "lato">I will always choose to act!  I seize this moment. </b></font>
 <br>
 <br>
-<b><font color = "black", size = "8" , face = "lato">I choose now.î ~</b></font>
+<b><font color = "black", size = "8" , face = "lato">I choose now.‚Äù ~</b></font>
 <br>
 <br>
 <b><font color = "red", size = "3" , face = "lato">Andy Andrews</b></font>
